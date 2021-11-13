@@ -1,0 +1,12 @@
+$mainColor: blue;
+
+header {
+  background-color: $mainColor;
+  h1 {
+    font-size: 3rem;
+  }
+}
+
+p {
+  color: $mainColor;
+}
